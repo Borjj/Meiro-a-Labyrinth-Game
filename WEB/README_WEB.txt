@@ -1,1 +1,0 @@
-Carpeta creada per a tota la documentació usada i generada per a la creació de la Web del projecte.
