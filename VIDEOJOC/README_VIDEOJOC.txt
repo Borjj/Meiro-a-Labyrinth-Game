@@ -1,1 +1,0 @@
-Carpeta creada per a la documentació generada per al videojoc de la web del projecte.
